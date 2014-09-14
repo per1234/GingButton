@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For GingButton
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GingButton				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setCallback				KEYWORD2
+loop					KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GING_BUTTON_LOW_HIGH	LITERAL1
+GING_BUTTON_HIGH_LOW	LITERAL1
